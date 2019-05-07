@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## My Portfolio
 
-You can use the [editor on GitHub](https://github.com/shingaki/MyPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am not very good working on the front-end of an application. Maybe because I enjoy the backend, writing logic, more than I do working on the front-end. Honestly, writing front-end code can be frustrating for me. When I make a small change sometimes my entire page is affected. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Also, I am not really looking to change jobs. My goal for this bootcamp is to learn more about technologies. I want to become a more hands-on manager and I felt that taking a class would force me to be discipline in respects to continuing to learn the different technologies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Strategy for My Portfolio 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shingaki/MyPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. As mentioned earlier, I am not very good nor do I enjoy writing code for the front-end. So, I took the advice provided in the homework instructions and retrieved a template to use for my project. 
+2. I customized the template to fit my experiences, assignments/projects, etc.
+3. I updated my gitHub repos' read me files.
+4. I attempted to create a resume. I hate to admit but I have not had a resume for a while and have not kept one up to date, so this was a challenge for me. 
